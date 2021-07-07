@@ -4,15 +4,15 @@
 
 ### Heroku applications :
 
-[server-deploy-main]()
+[server-deploy-main](https://api-server-sql0.herokuapp.com/)
 
 ### Github actions:
 
-[actions](https://github.com/DinaSami/api-server-sql/actions)
+[actions](https://github.com/DinaSami/api-server-sql0/actions)
 
 ### pull request:
 
-[PR](https://github.com/DinaSami/api-server-sql/pull/1)
+[PR](https://github.com/DinaSami/api-server-sql0/pull/1)
 
 ## Drawings:
 
